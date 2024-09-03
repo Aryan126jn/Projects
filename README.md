@@ -1,4 +1,4 @@
-Sales Dashboard Project
+1.Sales Dashboard Project
 Overview
 This repository contains an Excel-based Sales Dashboard designed for a company dealing in three major product categories: Furniture, Technologies, and Office Supplies. The dashboard is built to provide a comprehensive and interactive overview of the company's sales performance across these categories.
 
